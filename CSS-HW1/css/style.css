@@ -1,0 +1,39 @@
+/* Ödev1 CSS */
+body{
+    background-image: url("https://img.otelz.com/s3/placeimages/turkey/bursa/uludag_uludag-merkezi-7f151c.jpg");
+    background-size: 100% 200%;
+}
+
+h1,h2,h3{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 40px;
+    color: DarkGreen  ;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: FireBrick  ;
+}
+
+ul{
+    list-style-position: inside;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: MidnightBlue ;
+    font-size: larger;
+
+}
+
+.ortala{
+    text-align: center;
+    font-size: 20px;
+}
+
+.size{
+    width: 150px;
+    height: 150px;
+
+}
+
